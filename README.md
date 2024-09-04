@@ -42,7 +42,7 @@ python inference.py
 
 ### Results
 
-f1 score를 기준으로 <U>**0.8142429391**</U> 성능이 나왔다.
+f1 score를 기준으로 <ins>**0.8142429391**</ins> 성능이 나왔다.
 
 ### Examples
 
